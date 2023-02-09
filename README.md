@@ -16,7 +16,7 @@
 <h2>Como usar</h2>
 <ol>
 <li>Acesse o arquivo <code>index.html</code> em seu navegador</li>
-<li>Clique no botão "Permitir localização" ou digite o nome de uma cidade na caixa de pesquisa</li>
+<li>Digite o nome de uma cidade ou bairro na caixa de pesquisa</li>
 <li>Verifique a previsão do tempo exibida na tela</li>
 </ol>
 </div>
